@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  text-align: center;
+  padding-top: calc(50vh - 285px);
+}
+canvas {
+  border: 1px solid #d3d3d3;
+  background-color: #ffcb62;
+}
