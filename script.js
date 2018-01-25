@@ -16,10 +16,13 @@ function animation() {
 
 window.addEventListener('keydown', function (e) {
   updateGame.keyDown(e);
+  console.log(e);
 });
 window.addEventListener('keyup', function (e) {
   updateGame.keyUp(e);
 });
 
+// console.log("x "+myGamePiece.speedX);
+// console.log("y "+myGamePiece.speedY);
 
 setInterval(animation, 20);
