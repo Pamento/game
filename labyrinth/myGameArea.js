@@ -2,8 +2,8 @@ class MyGameArea {
 
   constructor(width,height){
     this.canvas =  document.createElement("canvas");
-    this.canvas.width = width;//480;
-    this.canvas.height = height;//270;
+    this.canvas.width = width;//975;
+    this.canvas.height = height;//600;
     this.context = this.canvas.getContext("2d");
   }
   start() {

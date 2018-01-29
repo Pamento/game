@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  background-image: url('./assint/background02.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding-top: calc(50vh - 301px);
+}
+canvas {
+  border: 1px solid #000000;
+  background-color: #ffcb62;
+}
