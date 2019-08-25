@@ -1,6 +1,8 @@
 body {
+  margin: 0;
   background-color: black;
-  background-image: url('./assint/background02.jpg');
+  background-image: url('./assint/background9.jpg');
+  -moz-background-image: url('./assint/background9.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
